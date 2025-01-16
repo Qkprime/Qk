@@ -20,7 +20,9 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qk&layout=compact&bg_color=180,00000000,000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+
 *****
+
 <p align="center"><img src="https://github.com/user-attachments/assets/12ad0b21-6f6e-4111-8598-ed02e7fb35cf"/></p>
     
     
