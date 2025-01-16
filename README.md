@@ -1,3 +1,3 @@
-<img src="https://i.namu.wiki/i/bPeLqzbPPn7gSdKihJmIwxrhJ0gfzRJ-UUare_dk8dl9p4eapvmu_X64iYoN8wcwwkVPzzf27_xVkDeuvz4Ymg.webp" height="200" />
+<img src="https://i.namu.wiki/i/bPeLqzbPPn7gSdKihJmIwxrhJ0gfzRJ-UUare_dk8dl9p4eapvmu_X64iYoN8wcwwkVPzzf27_xVkDeuvz4Ymg.webp" height="400" />
 
 
